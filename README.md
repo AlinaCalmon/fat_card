@@ -6,7 +6,7 @@
 - Registro de Compras: Permite ao usuário inserir o valor de várias compras, acumulando o valor total.
 - Controle de Última Compra: Pergunta ao usuário se é a última compra, permitindo continuar o registro de novas compras até que ele confirme o término.
 - Calculo do Dia de Pagamento: Solicita ao usuário o dia do pagamento da fatura.
-- Cálculo de Juros: Se o pagamento for após o dia 25, aplica uma taxa de 3% ao valor total mais 1% adicional por dia de atraso.
+- Cálculo de Juros: Se o pagamento for após o dia 25, aplica uma taxa de 5% ao valor total mais 1% adicional por dia de atraso.
 
 # Pontos Atendidos e Funcionalidades Adicionais
 
